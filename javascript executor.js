@@ -1,4 +1,4 @@
-javascript:(function(){document.body.innerHTML  = `<style>
+javascript:(function(){document.body.innerHTML += `<style>
     .f330j-28 {
       z-index: 99999;
       position: fixed;
